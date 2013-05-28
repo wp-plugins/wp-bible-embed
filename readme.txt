@@ -20,3 +20,15 @@ While there are many Bible verse plugins, there are none that display the whole 
 1. Upload `bible_main.php.` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Place the [bible] shortcode in any post or page
+
+== Frequently Asked Questions == 
+None.
+
+== Changelog ==
+None.
+
+== Upgrade Notice ==
+None.
+
+== Screenshots ==
+To see screen shots goto http://aidan.caseyhouse.net/web
