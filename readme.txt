@@ -25,7 +25,7 @@ While there are many Bible verse plugins, there are none that display the whole 
 None.
 
 == Changelog ==
-None.
+Fixed bug in url.
 
 == Upgrade Notice ==
 None.
