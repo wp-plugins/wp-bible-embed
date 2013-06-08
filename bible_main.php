@@ -43,7 +43,7 @@ add_shortcode('bible', 'bible_embed');
 //Embed the plugin
 function bible_embed()
 { ?>
-<embed src=="<?php bloginfo('url'); ?>/wp-content/plugins/bible/kjv_bible.pdf" width="1000" height="750"></embed>
+<embed src="<?php bloginfo('url'); ?>/wp-content/plugins/bible/kjv_bible.pdf" width="1000" height="750"></embed>
 <?
 }
 ?>
