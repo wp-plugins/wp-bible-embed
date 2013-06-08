@@ -26,10 +26,10 @@ None.
 
 == Changelog ==
 1.1
-Fixed bug in url.
+Fixed bug in embed url.
 
 == Upgrade Notice ==
-None.
+Please upgrade to version 1.1 to avoid this bug. Thank you!
 
 == Screenshots ==
-To see screen shots goto http://aidan.caseyhouse.net/web
+To see screen shots goto http://aidan.caseyhouse.net/web/plugins/wp-bible-embed
