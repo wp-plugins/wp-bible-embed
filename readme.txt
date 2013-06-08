@@ -29,7 +29,7 @@ None.
 Fixed bug in embed url.
 
 == Upgrade Notice ==
-Please upgrade to version 1.1 to avoid this bug. Thank you!
+1.1
 
 == Screenshots ==
 To see screen shots goto http://aidan.caseyhouse.net/web/plugins/wp-bible-embed
