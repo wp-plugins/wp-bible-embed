@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 There are many wordpress Bible plugins, but none of them embed the whole entire Bible... Except this one.
 
 == Description ==
-There are many WordPress Bible plugins, but most of them only link to a webpage with the verse you referenced. WP-Bible Embed is the only plugin that actually embeds the King James Version Bible into your webpage. It doesn\'t even decrease the pages loading time!
+There are many WordPress Bible plugins, but most of them only link to a webpage with the verse you referenced. WP-Bible Embed is the only plugin that actually embeds the King James Version Bible into your webpage. It doesn't even decrease the pages loading time!
 
 == Installation ==
 = From your WordPress dashboard: =
