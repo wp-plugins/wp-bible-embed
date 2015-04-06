@@ -3,7 +3,7 @@
 Plugin Name: WP-Bible Embed
 Plugin URI: http://aidan.caseyhouse.net/web/wp-bible-embed/
 Description: While there are many Bible verse plugins, there are none that display the whole Bible... Until now. Display this KJV Bible on one of your pages with the [bible] shortcode.
-Version: 2.0
+Version: 2.1
 Author: Aidan Casey
 Author URI: http://aidan.caseyhouse.net
 License: GPL2
