@@ -12,13 +12,6 @@ There are many wordpress Bible plugins, but none of them embed the whole entire 
 == Description ==
 There are many WordPress Bible plugins, but most of them only link to a webpage with the verse you referenced. WP-Bible Embed is the only plugin that actually embeds the King James Version Bible into your webpage. It doesn't even decrease the pages loading time!
 
-= Future Updates =
-The things I'm currently focusing on updating are:
-* A stylish jQuery nvaigation system to replace the up arrow.
-* Positionable nav system. Instead of having that navigation system in the bottom right, choose where you'd like it to be.
-* More versions of the bible.
-* More advanced shortcode system so you could customize which bible and navigation system is used if you so desire. 
-
 == Installation ==
 = From your WordPress dashboard: =
 1. Goto 'Plugins > Add New'.
