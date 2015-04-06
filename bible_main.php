@@ -6,7 +6,7 @@ Description: While there are many Bible verse plugins, there are none that displ
 Version: 2.0
 Author: Aidan Casey
 Author URI: http://aidan.caseyhouse.net
-Copyright: 2015, Aidan Casey
+License: GPL2
 GNU General Public License, Free Software Foundation <http://creativecommons.org/licenses/GPL/2.0/>
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
